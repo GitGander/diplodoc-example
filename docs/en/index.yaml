@@ -1,10 +1,10 @@
 title: Documentation Template
 links:
-  - title: About
+  - title: О проекте
     href: about.md
-  - title: Diplodoc page on index page
+  - title: Страница Диплодока на главной странице
     href: page.md
-  - title: YFM Structure on index page
+  - title: YFM Структура на главной странице
     href: anotherpage.md
-  - title: Sub-section on index page
+  - title: Подраздел на главной странице
     href: sub-section/
